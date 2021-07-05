@@ -8,6 +8,8 @@ public class TheStart {
 		 int a;
 		 int g;
 		 int h;
+		 int n;
+		 int b;
 		 
 
 	}
