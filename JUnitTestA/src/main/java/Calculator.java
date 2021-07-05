@@ -8,7 +8,7 @@ public class Calculator {
 	
 public static int subtract(int intSub1, int intSub2) {
 		
-		//3rd comment
+		//5th comment
 		return intSub1 - intSub2;
 	}
 
