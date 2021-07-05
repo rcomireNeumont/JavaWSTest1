@@ -6,6 +6,9 @@ public class TheStart {
 		 int y;
 		 int z;
 		 int a;
+		 int g;
+		 int h;
+		 
 
 	}
 
